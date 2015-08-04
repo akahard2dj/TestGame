@@ -1,0 +1,4 @@
+Shape,    Color,  Number,   Background, Shading
+Square,   Red,    First,    Black,      Colored
+Circle,   Yellow, Second,   Gray,       Striped
+Triangle, Blue,   Third,    White,      Outlined
